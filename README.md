@@ -5,7 +5,7 @@
 
 ## "The Pharm'AI company" projects
 <table>
-<tr><th>Machine Learning</th></tr>
+<tr><th style="width: 600px;>Machine Learning</th></tr>
 <tr><td>
 
 |Title | Description | Tech Stack|
