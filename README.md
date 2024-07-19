@@ -1,6 +1,5 @@
 ## About Me:
-💊 French Data Scientist & PharmD & Engineer working on AI projects in the healthcare industry<br>
-🌱 I'm currently learning and improving on AI/ML specifically for pharmaceutical and Life sciences companies.
+💊 French Data Scientist & PharmD & Engineer working on AI projects in the healthcare and Life sciences industries<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnaud-duigou-data/) 
 
