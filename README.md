@@ -1,6 +1,8 @@
 ## About Me:
 💊 French Data Scientist & PharmD & Engineer working on AI projects in the healthcare and Life sciences industries<br>
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnaud-duigou-data/) <br>
 ![](https://komarev.com/ghpvc/?username=arnaud-dg&color=brightgreen) <i>(This counter was added on 14-Aug-2024)</i>
 
