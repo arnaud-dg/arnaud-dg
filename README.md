@@ -26,17 +26,40 @@
 
 ## Other projects
 
-<table>
-<tr><th style="width: 600px;">Dashboards</th></tr>
-<tr><td>
-
-|Title | Description | Tech Stack|
-|:--:|:---|:--:|
-| [Explora'thèse](https://app.powerbi.com/view?r=eyJrIjoiMmU5ZmM1Y2QtZWYzMC00YTkxLWFkMjItZTA2YzVmNmZkZTlkIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9) | A dashboard to explore 25 years of pharmD thesis | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [FDA unofficial dashbaord](https://app.powerbi.com/view?r=eyJrIjoiYzk1MTM5ZGQtZGVkYi00M2Y2LTg5ZDQtYzI2MmY5ZGE4ZWVhIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9) | A power Bi Dashboard exploring FDA's open data | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
-| [Pharmaceutical sales monitoring](https://app.powerbi.com/view?r=eyJrIjoiYWVjNmYwYTYtY2I0OC00NGQ5LThjZjEtYmEwMzE0NjJlNmMyIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9) | A power Bi Dashboard exploring Business Intelligence and marketing staff performance | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
-
-</td></tr>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <th colspan="3" style="width: 100%;">Dashboards</th>
+  </tr>
+  <tr>
+    <th style="width: 25%;">Title</th>
+    <th style="width: 50%;">Description</th>
+    <th style="width: 25%;">Tech Stack</th>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5ZmM1Y2QtZWYzMC00YTkxLWFkMjItZTA2YzVmNmZkZTlkIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Explora'thèse</a></td>
+    <td style="word-wrap: break-word;">A dashboard to explore 25 years of pharmD thesis</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzk1MTM5ZGQtZGVkYi00M2Y2LTg5ZDQtYzI2MmY5ZGE4ZWVhIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">FDA unofficial dashboard</a></td>
+    <td style="word-wrap: break-word;">A Power BI Dashboard exploring FDA's open data</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws" alt="AWS">
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiYWVjNmYwYTYtY2I0OC00NGQ5LThjZjEtYmEwMzE0NjJlNmMyIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Pharmaceutical sales monitoring</a></td>
+    <td style="word-wrap: break-word;">A Power BI Dashboard exploring Business Intelligence and marketing staff performance</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </td>
+  </tr>
 </table>
 
 ## Tech Stack
