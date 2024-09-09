@@ -13,11 +13,8 @@
 
 |Title | Description | Tech Stack|
 |:--:|:--:|:--:|
-
 | [The CFU counter](https://ufc-counter-2fkxk53awlpztyyrg6aydk.streamlit.app/) | How to use a deep learning model to automaticaly count bacteria on an agar plate | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit)|
-
 | [The CPV 4.0 solution](https://q927ad-arnaud-duigou.shinyapps.io/Shiny_CPV/) | How to use Machine Learning to strengthen process knowledge and control | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![R-shiny](https://img.shields.io/badge/R%20shiny-8A2BE2) |
-
 | [ML-based predictive maintenance](https://preventivemaintenanceaeronautics-fjonxrqfymxmggytlrqfew.streamlit.app/) | A side project about Predictive Maintenance in Industry | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit)|
 
 </td></tr>
