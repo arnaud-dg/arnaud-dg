@@ -7,17 +7,38 @@
 ![](https://komarev.com/ghpvc/?username=arnaud-dg&color=brightgreen) <i>(This counter was added on 14-Aug-2024)</i>
 
 ## "The Pharm'AI company" projects
-<table>
-<tr><th style="width: 500px;">Machine Learning</th></tr>
-<tr><td>
-
-|Title | Description | Tech Stack|
-|:--:|:--:|:--:|
-| [The CFU counter](https://ufc-counter-2fkxk53awlpztyyrg6aydk.streamlit.app/) | How to use a deep learning model to automaticaly count bacteria on an agar plate | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit)|
-| [The CPV 4.0 solution](https://q927ad-arnaud-duigou.shinyapps.io/Shiny_CPV/) | How to use Machine Learning to strengthen process knowledge and control | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![R-shiny](https://img.shields.io/badge/R%20shiny-8A2BE2) |
-| [ML-based predictive maintenance](https://preventivemaintenanceaeronautics-fjonxrqfymxmggytlrqfew.streamlit.app/) | A side project about Predictive Maintenance in Industry | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit)|
-
-</td></tr>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <th style="width: 25%;">Title</th>
+    <th style="width: 50%;">Description</th>
+    <th style="width: 25%;">Tech Stack</th>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://ufc-counter-2fkxk53awlpztyyrg6aydk.streamlit.app/">The CFU counter</a></td>
+    <td style="word-wrap: break-word;">How to use a deep learning model to automatically count bacteria on an agar plate</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch" alt="Pytorch">
+      <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit" alt="Streamlit">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://q927ad-arnaud-duigou.shinyapps.io/Shiny_CPV/">The CPV 4.0 solution</a></td>
+    <td style="word-wrap: break-word;">How to use Machine Learning to strengthen process knowledge and control</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/R%20shiny-8A2BE2" alt="R-shiny">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://preventivemaintenanceaeronautics-fjonxrqfymxmggytlrqfew.streamlit.app/">ML-based predictive maintenance</a></td>
+    <td style="word-wrap: break-word;">A side project about Predictive Maintenance in Industry</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+      <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit" alt="Streamlit">
+    </td>
+  </tr>
 </table>
 
 ## Other projects
