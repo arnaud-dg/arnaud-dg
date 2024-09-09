@@ -9,6 +9,9 @@
 ## "The Pharm'AI company" projects
 <table style="width: 100%; table-layout: fixed;">
   <tr>
+    <th colspan="3" style="width: 100%;">Dashboards</th>
+  </tr>
+  <tr>
     <th style="width: 25%;">Title</th>
     <th style="width: 50%;">Description</th>
     <th style="width: 25%;">Tech Stack</th>
