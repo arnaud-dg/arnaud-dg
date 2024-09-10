@@ -26,6 +26,9 @@
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
     </td>
   </tr>
+  <!-- 
+  Ceci est un commentaire invisible dans le rendu final 
+  -->
 </table>
 
 ## Other projects
