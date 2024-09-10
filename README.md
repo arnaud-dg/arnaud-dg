@@ -22,7 +22,7 @@
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch" alt="Pytorch">
-      <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit" alt="Streamlit">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
     </td>
   </tr>
 </table>
