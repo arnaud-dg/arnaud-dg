@@ -21,7 +21,8 @@
     <td style="word-wrap: break-word;">A deep-learning / computer vision project to automatize CFU counting on agar plates</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch" alt="Pytorch">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="Fastapi">
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
     </td>
   </tr>
