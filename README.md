@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=arnaud-dg&color=brightgreen) <i>(This counter was added on 14-Aug-2024)</i>
 
 ## "The Pharm'AI company" projects
-<table style="width: 100%; table-layout: auto;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <th colspan="3" style="width: 100%;">Projects</th>
   </tr>
@@ -30,14 +30,14 @@
 
 ## Other projects
 
-<table style="width: 100%; table-layout: auto;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <th colspan="3" style="width: 100%;">Dashboards</th>
   </tr>
   <tr>
-    <th style="width: 25%;">Title</th>
-    <th style="width: 50%;">Description</th>
-    <th style="width: 25%;">Tech Stack</th>
+    <th style="width: 200px;">Title</th>
+    <th style="width: 400px;">Description</th>
+    <th style="width: 250px;">Tech Stack</th>
   </tr>
   <tr>
     <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5ZmM1Y2QtZWYzMC00YTkxLWFkMjItZTA2YzVmNmZkZTlkIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Explora'thèse</a></td>
