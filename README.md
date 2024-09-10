@@ -12,18 +12,18 @@
     <th colspan="3" style="width: 100%;">Projects</th>
   </tr>
   <tr>
-    <th style="width: 25%;">Title</th>
-    <th style="width: 50%;">Description</th>
-    <th style="width: 25%;">Tech Stack</th>
+    <th style="width: 200px;">Title</th>
+    <th style="width: 400px;">Description</th>
+    <th style="width: 250px;">Tech Stack</th>
   </tr>
   <tr>
     <td style="word-wrap: break-word;"><a href="https://ufc-counter-2fkxk53awlpztyyrg6aydk.streamlit.app/">The CFU counter</a></td>
     <td style="word-wrap: break-word;">A deep-learning / computer vision project to automatize CFU counting on agar plates</td>
     <td style="word-wrap: break-word;">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100px;">
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="max-width: 100px;">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=black" alt="Fastapi" style="max-width: 100px;">
-      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit" style="max-width: 100px;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=black" alt="Fastapi">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
     </td>
   </tr>
 </table>
