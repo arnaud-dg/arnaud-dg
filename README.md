@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5ZmM1Y2QtZWYzMC00YTkxLWFkMjItZTA2YzVmNmZkZTlkIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Explora'thèse</a></td>
-    <td style="word-wrap: break-word;">A dashboard to explore 25 years of pharmD thesis</td>
+    <td style="word-wrap: break-word;">A PowerBi dashboard exploring 25 years of pharmD thesis</td>
   </tr>
   <tr>
     <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzk1MTM5ZGQtZGVkYi00M2Y2LTg5ZDQtYzI2MmY5ZGE4ZWVhIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">FDA unofficial dashboard</a></td>
-    <td style="word-wrap: break-word;">A Power BI Dashboard exploring FDA's open data</td>
+    <td style="word-wrap: break-word;">A PowerBi dashboard exploring FDA's open data (inspection results, citations, complaints & recalls)</td>
   </tr>
   <tr>
     <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiYWVjNmYwYTYtY2I0OC00NGQ5LThjZjEtYmEwMzE0NjJlNmMyIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Pharmaceutical sales monitoring</a></td>
-    <td style="word-wrap: break-word;">A Power BI Dashboard exploring Business Intelligence and marketing staff performance</td>
+    <td style="word-wrap: break-word;">A Power BI Dashboard exploring Business Intelligence through a marketing staff performance report</td>
   </tr>
 </table>
 
