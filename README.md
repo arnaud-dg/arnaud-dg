@@ -27,7 +27,16 @@
     </td>
   </tr>
   <!-- 
-  Ceci est un commentaire invisible dans le rendu final 
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/reportEmbed?reportId=d650bce1-19fc-4303-ae89-c8f8cf2b2788&autoAuth=true&ctid=4e71450c-8ff2-494b-9477-fc1501ef37de">Workplace Accidents Analyzer</a></td>
+    <td style="word-wrap: break-word;">A project applied to EHS data using LLMs to extract named entities from a narrative</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Selenium">
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi">
+      <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama">
+    </td>
+  </tr>
   -->
 </table>
 
