@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=arnaud-dg&color=brightgreen) <i>(This counter was added on 14-Aug-2024)</i>
 
 ## "The Pharm'AI company" projects
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: auto;">
   <tr>
     <th colspan="3" style="width: 100%;">Projects</th>
   </tr>
@@ -29,7 +29,7 @@
 
 ## Other projects
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: auto;">
   <tr>
     <th colspan="3" style="width: 100%;">Dashboards</th>
   </tr>
