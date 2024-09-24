@@ -27,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/reportEmbed?reportId=d650bce1-19fc-4303-ae89-c8f8cf2b2788&autoAuth=true&ctid=4e71450c-8ff2-494b-9477-fc1501ef37de">LLM enhanced Workplace Accidents Analyzer</a></td>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzZmZGVjM2QtZTE3NC00NDY5LTk1NjEtMzFkYTJhZDY4ODcwIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">LLM enhanced Workplace Accidents Analyzer</a></td>
     <td style="word-wrap: break-word;">A project applied to EHS data using LLMs to extract named entities from a narrative. A powerful tool to reveal unstructured data sources.</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
