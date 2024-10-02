@@ -36,15 +36,13 @@
       <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama">
     </td>
   </tr>
-  <!-- 
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://q927ad-arnaud-duigou.shinyapps.io/Shiny_CPV/">CPV 4.0 - Advanced Strategies for Process Verification and Control</a></td>
+    <td style="word-wrap: break-word;"><a href="https://q927ad-arnaud-duigou.shinyapps.io/Shiny_app_CPV40/">CPV 4.0 - Advanced Strategies for Process Verification and Control</a></td>
     <td style="word-wrap: break-word;">An innovative proposition of a Continuous Process Verification report, agumented with advanced statistics and machine learning tools</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
     </td>
   </tr>
-  -->
 </table>
 
 ## Other projects
