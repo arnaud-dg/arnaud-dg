@@ -43,6 +43,29 @@
       <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
     </td>
   </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="https://fda-510k-dkpqqdmyxeshkpspqez74e.streamlit.app/">FDA 510k form Regulatory Knowledge Base</a></td>
+    <td style="word-wrap: break-word;">A regulatory knowledge base built with more than 850 form related to AI/ML medical devices submissions from FDA (510k form). Functionnalities : Chatbot and automatic submission form generation.</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="">Predictive Maintenance</a></td>
+    <td style="word-wrap: break-word;">Project incoming</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="">The "OMICS" project</a></td>
+    <td style="word-wrap: break-word;">Project incoming</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/Dash-008DE4.svg?style=for-the-badge&logo=Dash&logoColor=black" alt="Dash">
+    </td>
+  </tr>
 </table>
 
 ## Other projects
