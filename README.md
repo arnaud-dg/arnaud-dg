@@ -52,8 +52,8 @@
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="">Predictive Maintenance</a></td>
-    <td style="word-wrap: break-word;">Project incoming</td>
+    <td style="word-wrap: break-word;"><a href="https://preventivemaintenanceaeronautics-fjonxrqfymxmggytlrqfew.streamlit.app/">Predictive Maintenance</a></td>
+    <td style="word-wrap: break-word;">A predictive maintenance project, with a Machine-Learning modeling applied on aircraft engine turbines.</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit">
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
