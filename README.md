@@ -60,10 +60,25 @@
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="">The "OMICS" project</a></td>
+    <td style="word-wrap: break-word;"><a href="https://the-omix-buddy-6e7889e55137.herokuapp.com/">The "OMICS" project</a></td>
+    <td style="word-wrap: break-word;">An Deep-dive into transcriptomics data, specifically focusing on differential gene expression analysis in disease contexts.</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/Dash-008DE4.svg?style=for-the-badge&logo=Dash&logoColor=black" alt="Dash">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="">Drug Sales Forecasting</a></td>
     <td style="word-wrap: break-word;">Project incoming</td>
     <td style="word-wrap: break-word;">
-      <img src="https://img.shields.io/badge/Dash-008DE4.svg?style=for-the-badge&logo=Dash&logoColor=black" alt="Dash">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;"><a href="">A Supply Chain Digital Twin</a></td>
+    <td style="word-wrap: break-word;">Project incoming</td>
+    <td style="word-wrap: break-word;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </td>
   </tr>
 </table>
