@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="">Drug Sales Forecasting</a></td>
+    <td style="word-wrap: break-word;"><a href="https://drug-forecasting-b3nhakgqfrn6qwtng39mno.streamlit.app/">Drug Sales Forecasting</a></td>
     <td style="word-wrap: break-word;">Project incoming</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
