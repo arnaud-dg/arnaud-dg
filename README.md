@@ -94,7 +94,7 @@
     <th style="width: 75%;">Description</th>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmU5ZmM1Y2QtZWYzMC00YTkxLWFkMjItZTA2YzVmNmZkZTlkIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Explora'thèse</a></td>
+    <td style="word-wrap: break-word;"><a href="https://app.powerbi.com/view?r=eyJrIjoiOWEyNDY5OTEtZjk2ZS00NTcyLTk2N2UtZTgwNmIzMTEzMzJhIiwidCI6IjRlNzE0NTBjLThmZjItNDk0Yi05NDc3LWZjMTUwMWVmMzdkZSJ9">Explora'thèse</a></td>
     <td style="word-wrap: break-word;">A PowerBi dashboard exploring 25 years of pharmD thesis</td>
   </tr>
   <tr>
